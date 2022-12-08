@@ -1,4 +1,4 @@
-# ExcelDashboard
+## ExcelDashboard
 Dashboard created to analyse raw sales data.
 
 # Tools
